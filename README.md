@@ -14,7 +14,7 @@
  ### 3. เครื่องมือที่ใช้ ซึ่งใช้ Python ในการพัฒนา
     - Google Colab
     - Visual Studio Code
- ##๒ 4. Library
+ ### 4. Library
     - Pandas
     - NumPy
     - Scikit-learn
